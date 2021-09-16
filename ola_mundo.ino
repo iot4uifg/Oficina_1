@@ -14,7 +14,7 @@ void setup() {
  
 void loop() {
  // Escreve mensagem padrão de programação 
- Serial.println("Hello World");
+ Serial.println("Olá Mundo");
  delay(500);
  // Faz o LED piscar (inverte o estado).
  digitalWrite(LED_BUILTIN, !digitalRead(LED_BUILTIN));
