@@ -4,7 +4,7 @@
   Autor:    Matheus Yosimura
   Objetivo: Programa básico de apresentação da IDE Arduino
 *********/
-
+//
 // Rotina de configuração dos pinos
 void setup()
 {
